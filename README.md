@@ -41,6 +41,6 @@ Hello, I'm Kevin Rivas!
 ## 💻 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,express,nestjs,angular,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,express,nestjs,mongodb,mysql,angular,react,tailwind,git" />
   </a>
 </p>
